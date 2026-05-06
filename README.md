@@ -9,10 +9,16 @@ The project emphasizes data preprocessing, network construction, and visualizati
 
 This work demonstrates how graph theory can be applied beyond traditional domains to analyze culinary data and extract meaningful insights about food composition and structure.
 
-📚 References
+  ## 📚 References
 
 - Flavor Network Dataset  
   https://github.com/lingcheng99/Flavor-Network  
 
 - Scientific Study: Flavor Network and the principles of food pairing  
-  https://www.nature.com/articles/srep00196  
+  https://www.nature.com/articles/srep00196
+
+  ## 📄 Report
+
+You can access the full technical report here:
+
+(RAPOR BURAYA EKLENECEK)

@@ -8,3 +8,11 @@ Community detection algorithms are used to reveal clusters of ingredients that f
 The project emphasizes data preprocessing, network construction, and visualization techniques to transform raw culinary data into an interpretable network structure. The final output provides both static and interactive visualizations that help in understanding how ingredients are connected and how different flavor profiles emerge from these relationships.
 
 This work demonstrates how graph theory can be applied beyond traditional domains to analyze culinary data and extract meaningful insights about food composition and structure.
+
+📚 References
+
+- Flavor Network Dataset  
+  https://github.com/lingcheng99/Flavor-Network  
+
+- Scientific Study: Flavor Network and the principles of food pairing  
+  https://www.nature.com/articles/srep00196  
